@@ -24,7 +24,9 @@ Stages: OFFLINE PARTS:Training - ONLINE PARTS: Real-Time Emotion recognition tro
 3) CNN
 4) HyperParameters
 5) Adam Optimizer, Data Augmentation(random cropping)
+------------------------------------
   ONLINE;
+------------------------------------
 7) KNN - CNN Hybrid System (Majority Voting Assembly)
 8) Final Decision
 ------------------------------------
