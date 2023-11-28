@@ -26,7 +26,7 @@ y_pred_probabilities = model.predict(X_test)
 y_pred = np.argmax(y_pred_probabilities, axis=1)
 
 # Convert labels to emotion names
-emotions = ["Sinirli", "Tiksinme", "Korku", "Mutlu", "Üzgün", "Şaşırma", "Normal"]
+emotions = ["anger", "disgust", "fear", "happy", "sad", "surprise", "neutral"]
 y_test_emotions = [emotions[label] for label in y_test]
 y_pred_emotions = [emotions[label] for label in y_pred]
 
