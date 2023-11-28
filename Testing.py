@@ -4,7 +4,7 @@ from keras.models import load_model
 from sklearn.metrics import classification_report
 
 # Load the testing dataset
-data = pd.read_csv('fer2013.csv')
+data = pd.read_csv('your_CSV_File.csv')
 
 # Extract the features and labels
 X_test = []
@@ -19,7 +19,7 @@ y_test = np.array(y_test)
 X_test = X_test.reshape(X_test.shape[0], 48, 48, 1) / 255.0
 
 # Load the trained model
-model = load_model('fer2013CNN_07062023.h5')
+model = load_model('Your_Model_File.h5')
 
 # Perform prediction on the testing data
 y_pred_probabilities = model.predict(X_test)
