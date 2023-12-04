@@ -3,6 +3,7 @@ Artificial Intelligence - Application of a Voting-Based Ensemble Method for Reco
 ------------------------------------
 ------------------------------------
 This is the research about my Master's Degree Thesis
+------------------------------------
 IDE: Visual Studo Code
 Language: Python
 ------------------------------------
