@@ -20,11 +20,11 @@ Stages: OFFLINE PARTS:Training - ONLINE PARTS: Real-Time Emotion recognition tro
 ------------------------------------
   OFFLINE;
 ------------------------------------
-1) Database Collection: FER2013, CK+, KDEF, ATS_FER_DB(We made it) Grayscale - 48,48,1
+1) Database Collections: FER2013, CK+, KDEF, ATS_FER_DB(We made it) Grayscale - 48,48,1
 2) DB Combinations
-3) CNN
-4) HyperParameters
-5) Adam Optimizer, Data Augmentation(random cropping)
+3) HyperParameters
+4) Adam Optimizer, Data Augmentation(random cropping)
+5) CNN
 ------------------------------------
   ONLINE;
 ------------------------------------
