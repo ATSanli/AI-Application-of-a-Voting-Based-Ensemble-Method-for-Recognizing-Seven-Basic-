@@ -32,7 +32,7 @@ Stages: OFFLINE PARTS:Training - ONLINE PARTS: Real-Time Emotion recognition tro
 8) Final Decision
 ------------------------------------
 ------------------------------------
-Let me know about any collaboration or questions;
+Let me know about any collaboration or question;
 tunasanli006@gmail.com
 
 Thanks!
