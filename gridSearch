@@ -1,4 +1,4 @@
-// The phase where the parameters tried to find best and suitable one for system.
+// The phase where the parameters tried to find best and suitable one by system.
 // Basically we made grid on these parameters:  'learning_rate': [0.001, 0.01, 0.1], 'dropout_rate': [0.2, 0.3, 0.4], 'conv_filters': [64, 128, 256]
 import numpy as np
 import pandas as pd
