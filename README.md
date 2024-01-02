@@ -7,6 +7,12 @@ IDE: Visual Studo Code
 Language: Python
 ------------------------------------
 ------------------------------------
+WE CREATED A NEW DATA SET NAMED ATS_FER_DB_2024 INCLUDING TURKISH CELEBRITIES.
+-48X48 PIXELS
+-184 PNG, 
+7 EMOTION CLASSES
+------------------------------------
+------------------------------------
 Accuracies: 
 With Fer2013 DB: 0.94 
 With combine DBs: 
@@ -19,11 +25,11 @@ Stages: OFFLINE PARTS:Training - ONLINE PARTS: Real-Time Emotion recognition tro
 ------------------------------------
   OFFLINE;
 ------------------------------------
-1) Database Collections: FER2013, CK+, KDEF, ATS_FER_DB(We made it) Grayscale - 48,48,1
+1) Database Collections: FER2013, CK+, KDEF, ATS_FER_DB_2024 (Grayscale - 48,48,1)
 2) DB Combinations
-3) HyperParameters
-4) Adam Optimizer, Data Augmentation(random cropping)
-5) CNN
+3) Adam Optimizer, Data Augmentation(Random Cropping (RC), Density Preserving Data Augmentation (DPDA))
+4) CNN
+5) Grid Search
 ------------------------------------
   ONLINE;
 ------------------------------------
@@ -33,5 +39,6 @@ Stages: OFFLINE PARTS:Training - ONLINE PARTS: Real-Time Emotion recognition tro
 ------------------------------------
 Let me know about any collaboration or question;
 tunasanli006@gmail.com
+www.z-gen.com.tr
 
 Thanks!
