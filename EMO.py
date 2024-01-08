@@ -10,7 +10,6 @@ import os
 from keras.models import load_model
 import matplotlib.pyplot as plt
 
-
 # Change the current working directory to the directory containing the saved model       
 os.chdir("C:\\Users\\ATS\\Desktop\\EMODETECT")
 
