@@ -1,0 +1,18 @@
+We introduced a novel dataset named ATS_FER_DB_2024, which incorporates facial images featuring Turkish celebrities and various emotional expressions. 
+---
+The Process of Creating ATS_FER_DB_2024
+The creation of ATS_FER_DB_2024 underwent a careful process involving prominent Turkish celebrities. 
+The image compilation for ATS_FER_DB_2024 included diverse emotional expressions to enhance the dataset's richness and applicability. 
+Rigorous quality checks were implemented. Each image involved careful control and tagging process by different individuals to ensure accurate and detailed annotations. 
+Dataset about 184 images, and 48x48 pixels. From 184 images, 20% is divided for testing, 80% is divided for training. The objective is to classify each facial expression into one of seven emotion tags such as 
+---
+Angry (0), Disgust (1), Fear (2), Happy (3), Sad (4), Surprise (5), or Neutral (6).
+---
+Angry: 20 images 	
+Disgust: 15 images	
+Fear: 19 images
+Happy: 72 images
+Sad: 14 images 
+Neutral: 13 images	
+Surprise: 31 images	
+
