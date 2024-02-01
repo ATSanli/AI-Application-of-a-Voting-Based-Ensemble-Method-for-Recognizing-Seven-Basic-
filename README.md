@@ -8,10 +8,15 @@ We achieved exciting results and made contributions to the industry in my recent
 ---
 ---
 🔍 Main Points of the Research:
-The study, which was initiated as a combination of CNN - KNN architectures, consists of two parts: "Offline Phase" and "Online Phase".
+The study, which was initiated as a combination of CNN - KNN architectures, consists of two parts: "Offline Phase" and "Online Phase"
+---
+---
 Offline Phase: Data Preprocessing, Feature Extraction, Hyperparameters, Data Augmentation, Training CNN Model, Fine Tuning and Grid Search, Evaluation.
+---
+---
 Online Phase: Preprocessing, Trained CNN Model (Feature Extraction), CNN - KNN Voting, Evaluation.
-
+---
+---
 Data sets:
 95% success was achieved with the results obtained by working on a total of 29,716 samples from the combination of FER2013, CK+, and KDEF data sets.
 ---
