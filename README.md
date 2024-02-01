@@ -33,6 +33,6 @@ In addition to offline studies, real-world experiences and the performance of th
 
 🔬 Technology Used Methods:
 Interactions of technologies such as Artificial Intelligence, CNN, KNN, Ensemble Systems, Deep Learning, PCA (Principal Component Analysis).
-This dataset is a milestone that contributes to a closer understanding of Turkey's culture and facial expressions. Don't forget to visit article_link for your reviews and comments!
+This dataset is a milestone that contributes to a closer understanding of Turkey's culture and facial expressions.
 👥 I'm Waiting for Your Links and Comments!
 
